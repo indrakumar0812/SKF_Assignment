@@ -1,0 +1,3 @@
+[32mINFO    [0m BaseClass:BaseClass.py:112 Mouseover Action on locator type:class and with the locator value:bearing-iconis successful
+[32mINFO    [0m BaseClass:BaseClass.py:126 Text of the element on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is extracted
+[32mINFO    [0m classObjects:tc1.py:49 --------------------Drop down Listbox closed-------------

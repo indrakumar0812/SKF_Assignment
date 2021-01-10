@@ -1,0 +1,5 @@
+[32mINFO    [0m classObjects:test_tc1.py:36 --------------------Getting all Bearing type options-------------
+[32mINFO    [0m BaseClass:BaseClass.py:112 Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is successful
+[32mINFO    [0m BaseClass:BaseClass.py:80 Element with the locator type:xpath and with the locator value://div[@role='listbox']is displayed
+[32mINFO    [0m BaseClass:BaseClass.py:97 All Elements with the locator type:xpath and with the locator value://mat-option[@role='option']has been retrieved
+[32mINFO    [0m classObjects:test_tc1.py:45 ---Successfully verified the options in the bearing type dropbox---

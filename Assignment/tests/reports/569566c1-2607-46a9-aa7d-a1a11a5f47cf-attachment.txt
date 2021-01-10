@@ -1,0 +1,4 @@
+[32mINFO    [0m classObjects:test_tc1.py:30 --------------------Verifying Single Bearing type---------------
+[32mINFO    [0m BaseClass:BaseClass.py:80 Element with the locator type:class and with the locator value:single-bearingis displayed
+[32mINFO    [0m BaseClass:BaseClass.py:67 Element clicked with the locator type:class and with the locator value:single-bearing
+[32mINFO    [0m classObjects:test_tc1.py:33 --------------------Single Bearing type selected----------------

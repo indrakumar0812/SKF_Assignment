@@ -1,0 +1,5 @@
+[32mINFO    [0m classObjects1:test_tc2.py:15 --------------------Test_002_ButtonColor------------------------------
+[32mINFO    [0m classObjects1:test_tc1.py:21 --------------------Test_001_DropDown------------------------------
+[32mINFO    [0m classObjects1:test_tc1.py:22 --------------------Clicking on Accept & Continue button------
+[32mINFO    [0m BaseClass:BaseClass.py:70 Unable to click on the element with the locator type:xpath and with the locator value://button[@type='button']
+[32mINFO    [0m BaseClass:BaseClass.py:166 screenshot saved to the path:../screenshots/xpath_10_01_21_20_09_41.png

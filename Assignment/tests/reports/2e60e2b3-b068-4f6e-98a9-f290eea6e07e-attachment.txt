@@ -1,0 +1,3 @@
+[32mINFO    [0m classObjects:test_tc2.py:15 --------------------Test_002_ButtonColor------------------------------
+[32mINFO    [0m classObjects:test_tc1.py:23 --------------------Test_001_DropDown------------------------------
+[32mINFO    [0m classObjects:test_tc1.py:24 --------------------Clicking on Accept & Continue button------

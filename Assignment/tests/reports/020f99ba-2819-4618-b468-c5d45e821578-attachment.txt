@@ -1,0 +1,2 @@
+[32mINFO    [0m BaseClass:BaseClass.py:116 Mouseover Action on locator type:class and with the locator value:bearing-iconis unsuccessful
+[32mINFO    [0m BaseClass:BaseClass.py:166 screenshot saved to the path:../screenshots/class_10_01_21_20_24_10.png

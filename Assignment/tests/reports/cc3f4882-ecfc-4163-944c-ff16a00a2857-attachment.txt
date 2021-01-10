@@ -1,0 +1,9 @@
+[32mINFO    [0m WDM:logger.py:24 Current google-chrome version is 87.0.4280
+[32mINFO    [0m WDM:logger.py:14 Get LATEST driver version for 87.0.4280
+[32mINFO    [0m WDM:logger.py:14 Driver [C:\Users\indrasen\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+[32mINFO    [0m classObjects:test_tc1.py:21 --------------------Test_001_DropDown------------------------------
+[32mINFO    [0m classObjects:test_tc1.py:22 --------------------Clicking on Accept & Continue button------
+[32mINFO    [0m BaseClass:BaseClass.py:67 Element clicked with the locator type:xpath and with the locator value://button[@type='button']
+[32mINFO    [0m classObjects:test_tc1.py:24 --------------------Verifying Home Page Title-----------------
+[32mINFO    [0m BaseClass:BaseClass.py:67 Element clicked with the locator type:xpath and with the locator value://*[@class="option-image"]
+[32mINFO    [0m classObjects:test_tc1.py:27 --------------------Home Page Title Verified Succesfully-------

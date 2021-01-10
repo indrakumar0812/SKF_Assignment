@@ -1,0 +1,7 @@
+[32mINFO    [0m WDM:logger.py:14 Current google-chrome version is 87.0.4280
+[32mINFO    [0m WDM:logger.py:14 Get LATEST driver version for 87.0.4280
+[32mINFO    [0m WDM:logger.py:14 Driver [C:\Users\indrasen\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+[32mINFO    [0m classObjects:test_tc2.py:16 --------------------Test_002_ButtonColor------------------------------
+[32mINFO    [0m classObjects:test_tc2.py:22 --------------------Clicking on drop downbox---------------------------
+[32mINFO    [0m BaseClass:BaseClass.py:116 Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is unsuccessful
+[32mINFO    [0m BaseClass:BaseClass.py:166 screenshot saved to the path:../screenshots/xpath_10_01_21_19_06_54.png

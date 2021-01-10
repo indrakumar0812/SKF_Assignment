@@ -1,0 +1,19 @@
+[32mINFO    [0m WDM:logger.py:24 Current google-chrome version is 87.0.4280
+[32mINFO    [0m WDM:logger.py:14 Get LATEST driver version for 87.0.4280
+[32mINFO    [0m WDM:logger.py:14 Driver [C:\Users\indrasen\.wdm\drivers\chromedriver\win32\87.0.4280.88\chromedriver.exe] found in cache
+[32mINFO    [0m classObjects:test_tc2.py:18 --------------------Test_002_ButtonColor------------------------------
+[32mINFO    [0m BaseClass:BaseClass.py:69 Element clicked with the locator type:xpath and with the locator value://button[@type='button']
+[32mINFO    [0m BaseClass:BaseClass.py:69 Element clicked with the locator type:xpath and with the locator value://*[@class="option-image"]
+[32mINFO    [0m BaseClass:BaseClass.py:83 Element with the locator type:class and with the locator value:single-bearingis displayed
+[32mINFO    [0m BaseClass:BaseClass.py:69 Element clicked with the locator type:class and with the locator value:single-bearing
+[32mINFO    [0m classObjects:test_tc2.py:24 --------------------Clicking on drop downbox---------------------------
+[32mINFO    [0m BaseClass:BaseClass.py:118 Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is successful
+[32mINFO    [0m classObjects:test_tc2.py:26 --------------------Selecting option from drop downbox------------------
+[32mINFO    [0m BaseClass:BaseClass.py:83 Element with the locator type:xpath and with the locator value://div[@role='listbox']is displayed
+[32mINFO    [0m BaseClass:BaseClass.py:102 All Elements with the locator type:xpath and with the locator value://mat-option[@role='option']has been retrieved
+[32mINFO    [0m classObjects:test_tc2.py:28 --------------------Entering value in designation search bar------------
+[32mINFO    [0m BaseClass:BaseClass.py:147 Send text on Element with the locator type:xpath and with the locator value://input[@placeholder='Search designation']
+[32mINFO    [0m BaseClass:BaseClass.py:102 All Elements with the locator type:xpath and with the locator value://mat-table[@role='grid']/mat-row/mat-cell[7]has been retrieved
+[32mINFO    [0m classObjects:test_tc2.py:30 --------------------Fetching Next Button Color--------------------------
+[32mINFO    [0m BaseClass:BaseClass.py:160 Css Attribute of the Element with the locator type:xpath and with the locator value://button[text()='next']is retrieved successfully
+[32mINFO    [0m classObjects:test_tc2.py:32 --------------------Next Button Color Verification successful------------

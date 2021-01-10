@@ -1,0 +1,163 @@
+100121 08:34:36 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+100121 08:34:36 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://button[@type='button']
+100121 08:34:36 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://*[@class="option-image"]
+100121 08:34:36 PM Sunday - BaseClass - INFO - Element with the locator type:class and with the locator value:single-bearingis displayed
+100121 08:34:36 PM Sunday - BaseClass - INFO - Element clicked with the locator type:class and with the locator value:single-bearing
+100121 08:34:36 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+100121 08:34:39 PM Sunday - BaseClass - INFO - Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is successful
+100121 08:34:39 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+100121 08:34:39 PM Sunday - BaseClass - INFO - Element with the locator type:xpath and with the locator value://div[@role='listbox']is displayed
+100121 08:34:39 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-option[@role='option']has been retrieved
+100121 08:34:39 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+100121 08:34:39 PM Sunday - BaseClass - INFO - Send text on Element with the locator type:xpath and with the locator value://input[@placeholder='Search designation']
+100121 08:34:43 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-table[@role='grid']/mat-row/mat-cell[7]has been retrieved
+100121 08:34:43 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+100121 08:34:43 PM Sunday - BaseClass - INFO - Css Attribute of the Element with the locator type:xpath and with the locator value://button[text()='next']couldn't be retrieved
+100121 08:34:44 PM Sunday - BaseClass - INFO - screenshot saved to the path:../screenshots/xpath_10_01_21_20_34_43.png
+100121 08:48:45 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+100121 08:48:46 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://button[@type='button']
+100121 08:48:46 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://*[@class="option-image"]
+100121 08:48:46 PM Sunday - BaseClass - INFO - Element with the locator type:class and with the locator value:single-bearingis displayed
+100121 08:48:46 PM Sunday - BaseClass - INFO - Element clicked with the locator type:class and with the locator value:single-bearing
+100121 08:48:46 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+100121 08:48:48 PM Sunday - BaseClass - INFO - Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is successful
+100121 08:48:48 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+100121 08:48:48 PM Sunday - BaseClass - INFO - Element with the locator type:xpath and with the locator value://div[@role='listbox']is displayed
+100121 08:48:48 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-option[@role='option']has been retrieved
+100121 08:48:48 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+100121 08:48:48 PM Sunday - BaseClass - INFO - Send text on Element with the locator type:xpath and with the locator value://input[@placeholder='Search designation']
+100121 08:48:53 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-table[@role='grid']/mat-row/mat-cell[7]has been retrieved
+100121 08:48:53 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+100121 08:48:53 PM Sunday - BaseClass - INFO - Css Attribute of the Element with the locator type:xpath and with the locator value://button[text()='next']couldn't be retrieved
+100121 08:48:53 PM Sunday - BaseClass - INFO - screenshot saved to the path:../screenshots/xpath_10_01_21_20_48_53.png
+100121 09:38:41 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+100121 09:38:41 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://button[@type='button']
+100121 09:38:41 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://*[@class="option-image"]
+100121 09:38:41 PM Sunday - BaseClass - INFO - Element with the locator type:class and with the locator value:single-bearingis displayed
+100121 09:38:42 PM Sunday - BaseClass - INFO - Element clicked with the locator type:class and with the locator value:single-bearing
+100121 09:38:42 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+100121 09:38:44 PM Sunday - BaseClass - INFO - Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is successful
+100121 09:38:44 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+100121 09:38:44 PM Sunday - BaseClass - INFO - Element with the locator type:xpath and with the locator value://div[@role='listbox']is displayed
+100121 09:38:44 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-option[@role='option']has been retrieved
+100121 09:38:44 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+100121 09:38:44 PM Sunday - BaseClass - INFO - Send text on Element with the locator type:xpath and with the locator value://input[@placeholder='Search designation']
+100121 09:38:48 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-table[@role='grid']/mat-row/mat-cell[7]has been retrieved
+100121 09:38:48 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+100121 09:38:48 PM Sunday - BaseClass - INFO - Css Attribute of the Element with the locator type:xpath and with the locator value://button[text()='next']is retrieved successfully
+100121 09:38:48 PM Sunday - classObjects - INFO - --------------------Next Button Color Verification successful------------
+100121 09:41:26 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+100121 09:41:27 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://button[@type='button']
+100121 09:41:27 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://*[@class="option-image"]
+100121 09:41:27 PM Sunday - BaseClass - INFO - Element with the locator type:class and with the locator value:single-bearingis displayed
+100121 09:41:27 PM Sunday - BaseClass - INFO - Element clicked with the locator type:class and with the locator value:single-bearing
+100121 09:41:27 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+100121 09:41:27 PM Sunday - BaseClass - INFO - Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is successful
+100121 09:41:28 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+100121 09:41:28 PM Sunday - BaseClass - INFO - Element with the locator type:xpath and with the locator value://div[@role='listbox']is displayed
+100121 09:41:28 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-option[@role='option']has been retrieved
+100121 09:41:28 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+100121 09:41:28 PM Sunday - BaseClass - INFO - Send text on Element with the locator type:xpath and with the locator value://input[@placeholder='Search designation']
+100121 09:41:32 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-table[@role='grid']/mat-row/mat-cell[7]has been retrieved
+100121 09:41:32 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+100121 09:41:32 PM Sunday - BaseClass - INFO - Css Attribute of the Element with the locator type:xpath and with the locator value://button[text()='next']is retrieved successfully
+100121 09:41:32 PM Sunday - classObjects - INFO - --------------------Next Button Color Verification successful------------
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Test_001_DropDown------------------------------
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Clicking on Accept & Continue button------
+100121 09:43:26 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://button[@type='button']
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Verifying Home Page Title-----------------
+100121 09:43:26 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://*[@class="option-image"]
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Home Page Title Verified Succesfully-------
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Verifying Single Bearing type---------------
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Verifying Single Bearing type---------------
+100121 09:43:26 PM Sunday - BaseClass - INFO - Element with the locator type:class and with the locator value:single-bearingis displayed
+100121 09:43:26 PM Sunday - BaseClass - INFO - Element clicked with the locator type:class and with the locator value:single-bearing
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Single Bearing type selected----------------
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Single Bearing type selected----------------
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Getting all Bearing type options-------------
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Getting all Bearing type options-------------
+100121 09:43:26 PM Sunday - classObjects - INFO - --------------------Getting all Bearing type options-------------
+100121 09:43:26 PM Sunday - BaseClass - INFO - Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is successful
+100121 09:43:27 PM Sunday - BaseClass - INFO - Element with the locator type:xpath and with the locator value://div[@role='listbox']is displayed
+100121 09:43:27 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-option[@role='option']has been retrieved
+100121 09:43:27 PM Sunday - classObjects - INFO - ---Successfully verified the options in the bearing type dropbox---
+100121 09:43:27 PM Sunday - classObjects - INFO - ---Successfully verified the options in the bearing type dropbox---
+100121 09:43:27 PM Sunday - classObjects - INFO - ---Successfully verified the options in the bearing type dropbox---
+100121 09:43:27 PM Sunday - BaseClass - INFO - Mouseover Action on locator type:class and with the locator value:bearing-iconis successful
+100121 09:43:31 PM Sunday - BaseClass - INFO - Text of the element on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is extracted
+100121 09:43:31 PM Sunday - classObjects - INFO - --------------------Drop down Listbox closed-------------
+100121 09:43:31 PM Sunday - classObjects - INFO - --------------------Drop down Listbox closed-------------
+100121 09:43:31 PM Sunday - classObjects - INFO - --------------------Drop down Listbox closed-------------
+100121 09:43:31 PM Sunday - classObjects - INFO - --------------------Drop down Listbox closed-------------
+100121 09:43:41 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+100121 09:43:41 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+100121 09:43:41 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+100121 09:43:41 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+100121 09:43:41 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+100121 09:43:41 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://button[@type='button']
+100121 09:43:41 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://*[@class="option-image"]
+100121 09:43:43 PM Sunday - BaseClass - INFO - Element with the locator type:class and with the locator value:single-bearingis displayed
+100121 09:43:43 PM Sunday - BaseClass - INFO - Element clicked with the locator type:class and with the locator value:single-bearing
+100121 09:43:43 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+100121 09:43:43 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+100121 09:43:43 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+100121 09:43:43 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+100121 09:43:43 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+100121 09:43:45 PM Sunday - BaseClass - INFO - Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is successful
+100121 09:43:45 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+100121 09:43:45 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+100121 09:43:45 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+100121 09:43:45 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+100121 09:43:45 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+100121 09:43:45 PM Sunday - BaseClass - INFO - Element with the locator type:xpath and with the locator value://div[@role='listbox']is displayed
+100121 09:43:45 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-option[@role='option']has been retrieved
+100121 09:43:45 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+100121 09:43:45 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+100121 09:43:45 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+100121 09:43:45 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+100121 09:43:45 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+100121 09:43:45 PM Sunday - BaseClass - INFO - Send text on Element with the locator type:xpath and with the locator value://input[@placeholder='Search designation']
+100121 09:43:50 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-table[@role='grid']/mat-row/mat-cell[7]has been retrieved
+100121 09:43:50 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+100121 09:43:50 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+100121 09:43:50 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+100121 09:43:50 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+100121 09:43:50 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+100121 09:43:50 PM Sunday - BaseClass - INFO - Css Attribute of the Element with the locator type:xpath and with the locator value://button[text()='next']is retrieved successfully
+100121 09:43:50 PM Sunday - classObjects - INFO - --------------------Next Button Color Verification successful------------
+100121 09:43:50 PM Sunday - classObjects - INFO - --------------------Next Button Color Verification successful------------
+100121 09:43:50 PM Sunday - classObjects - INFO - --------------------Next Button Color Verification successful------------
+100121 09:43:50 PM Sunday - classObjects - INFO - --------------------Next Button Color Verification successful------------
+100121 09:43:50 PM Sunday - classObjects - INFO - --------------------Next Button Color Verification successful------------
+10-01-21 10:13:39 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+10-01-21 10:13:39 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://button[@type='button']
+10-01-21 10:13:39 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://*[@class="option-image"]
+10-01-21 10:13:42 PM Sunday - BaseClass - INFO - Element with the locator type:class and with the locator value:single-bearingis displayed
+10-01-21 10:13:42 PM Sunday - BaseClass - INFO - Element clicked with the locator type:class and with the locator value:single-bearing
+10-01-21 10:13:42 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+10-01-21 10:13:44 PM Sunday - BaseClass - INFO - Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is successful
+10-01-21 10:13:44 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+10-01-21 10:13:44 PM Sunday - BaseClass - INFO - Element with the locator type:xpath and with the locator value://div[@role='listbox']is displayed
+10-01-21 10:13:44 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-option[@role='option']has been retrieved
+10-01-21 10:13:44 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+10-01-21 10:13:44 PM Sunday - BaseClass - INFO - Send text on Element with the locator type:xpath and with the locator value://input[@placeholder='Search designation']
+10-01-21 10:13:48 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-table[@role='grid']/mat-row/mat-cell[7]has been retrieved
+10-01-21 10:13:48 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+10-01-21 10:13:48 PM Sunday - BaseClass - INFO - Css Attribute of the Element with the locator type:xpath and with the locator value://button[text()='next']is retrieved successfully
+10-01-21 10:13:48 PM Sunday - classObjects - INFO - --------------------Next Button Color Verification successful------------
+10-01-21 10:15:03 PM Sunday - classObjects - INFO - --------------------Test_002_ButtonColor------------------------------
+10-01-21 10:15:04 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://button[@type='button']
+10-01-21 10:15:04 PM Sunday - BaseClass - INFO - Element clicked with the locator type:xpath and with the locator value://*[@class="option-image"]
+10-01-21 10:15:06 PM Sunday - BaseClass - INFO - Element with the locator type:class and with the locator value:single-bearingis displayed
+10-01-21 10:15:06 PM Sunday - BaseClass - INFO - Element clicked with the locator type:class and with the locator value:single-bearing
+10-01-21 10:15:06 PM Sunday - classObjects - INFO - --------------------Clicking on drop downbox---------------------------
+10-01-21 10:15:08 PM Sunday - BaseClass - INFO - Mouseover Action on locator type:xpath and with the locator value://div[contains(@id,'mat-select-value-9')]is successful
+10-01-21 10:15:08 PM Sunday - classObjects - INFO - --------------------Selecting option from drop downbox------------------
+10-01-21 10:15:08 PM Sunday - BaseClass - INFO - Element with the locator type:xpath and with the locator value://div[@role='listbox']is displayed
+10-01-21 10:15:08 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-option[@role='option']has been retrieved
+10-01-21 10:15:08 PM Sunday - classObjects - INFO - --------------------Entering value in designation search bar------------
+10-01-21 10:15:08 PM Sunday - BaseClass - INFO - Send text on Element with the locator type:xpath and with the locator value://input[@placeholder='Search designation']
+10-01-21 10:15:12 PM Sunday - BaseClass - INFO - All Elements with the locator type:xpath and with the locator value://mat-table[@role='grid']/mat-row/mat-cell[7]has been retrieved
+10-01-21 10:15:13 PM Sunday - classObjects - INFO - --------------------Fetching Next Button Color--------------------------
+10-01-21 10:15:13 PM Sunday - BaseClass - INFO - Css Attribute of the Element with the locator type:xpath and with the locator value://button[text()='next']is retrieved successfully
+10-01-21 10:15:13 PM Sunday - classObjects - INFO - --------------------Next Button Color Verification successful------------
