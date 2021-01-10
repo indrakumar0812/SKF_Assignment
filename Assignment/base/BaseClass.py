@@ -13,6 +13,7 @@ class BaseClass:
     def __init__(self,driver):
         self.driver=driver
 
+#------Explicit wait for the element-------------------------#
     def waitForElement(self,locatorValue,locatorType):
         locatorType=locatorType.lower()
         ele=None
@@ -38,6 +39,7 @@ class BaseClass:
         else:
             self.logs.info("Locator Value" +locatorValue+ "not found")
 
+#------Explicit wait for the elements-------------------------#
     def waitForElements(self, locatorValue, locatorType):
 
         if locatorType == "id":

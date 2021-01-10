@@ -15,7 +15,7 @@ class Test_002_ButtonColor():
         self.cl = customLogger()
 
     def test_NextButtonColor(self):
-        self.cl.info("--------------------Test_002_ButtonColor------------------------------")
+        self.cl.info("--------------------Start of Test_002_ButtonColor------------------------------")
         self.hp.clickAcceptButton()
         self.hp.clickBearingImage()
         self.hp.verifyTitle()
@@ -30,5 +30,6 @@ class Test_002_ButtonColor():
         self.cl.info("--------------------Fetching Next Button Color--------------------------")
         self.dp.getButtonColor()
         self.cl.info("--------------------Next Button Color Verification successful------------")
+        self.cl.info("--------------------End of Test_002_ButtonColor------------------------------")
 
 

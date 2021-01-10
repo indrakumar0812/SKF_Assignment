@@ -18,7 +18,7 @@ class Test_001_DropDown:
         self.el = readExcelData()
 
     def test_HomePageTitle(self):
-        self.cl.info("--------------------Test_001_DropDown------------------------------")
+        self.cl.info("--------------------Start of Test_001_DropDown------------------------------")
         self.cl.info("--------------------Clicking on Accept & Continue button------")
         self.hp.clickAcceptButton()
         self.cl.info("--------------------Verifying Home Page Title-----------------")
@@ -47,4 +47,5 @@ class Test_001_DropDown:
     def test_closeDropDownBox(self):
         self.dp.closeDropDownOption()
         self.cl.info("--------------------Drop down Listbox closed-------------")
+        self.cl.info("--------------------End of Test_001_DropDown------------------------------")
 
